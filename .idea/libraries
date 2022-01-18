@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="javalib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/group/sp21-proj3-g889/library-sp21/javalib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Desktop/group/sp21-proj3-g889/library-sp21/javalib" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/Desktop/group/sp21-proj3-g889/library-sp21/javalib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/Desktop/group/sp21-proj3-g889/library-sp21/javalib" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</project>

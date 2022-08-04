@@ -1,4 +1,4 @@
-# cs186 Introduction to Database System
+# CS186: Introduction to Database System
 
 ### Projects
 There are six projects in total. There is a [gitbook](https://cs186.gitbook.io/project/) for CS186 projects
